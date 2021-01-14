@@ -37,6 +37,9 @@ Types of Inheritance:
 - Hierarchical Inheritance: where class A extends class B where class C extends class B as well
 - Multiple Inheritance: where class A extends class B and class C
 
+Polymorphism is a process of performing a single action with different ways. There are 2 types of this.
 
+Static Polymorphism: The behaviour of the class is clear in compile time. Method overload is one example to that. 
+Dynamic Polymorphism: The behaviour of the class is clear in runtime. Method override is one example to that.
 
 
