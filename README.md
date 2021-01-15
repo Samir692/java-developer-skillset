@@ -42,4 +42,4 @@ Polymorphism is a process of performing a single action with different ways. The
 Static Polymorphism: The behaviour of the class is clear in compile time. Method overload is one example to that. 
 Dynamic Polymorphism: The behaviour of the class is clear in runtime. Method override is one example to that.
 
-
+Encapsulation is a process of binding opject state and behaviour togethere. Making class is one example to that 
