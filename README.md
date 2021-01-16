@@ -42,4 +42,8 @@ Polymorphism is a process of performing a single action with different ways. The
 Static Polymorphism: The behaviour of the class is clear in compile time. Method overload is one example to that. 
 Dynamic Polymorphism: The behaviour of the class is clear in runtime. Method override is one example to that.
 
-Encapsulation is a process of binding opject state and behaviour togethere. Making class is one example to that 
+Encapsulation is a process of binding opject state and behaviour together. Making class is one example to that.
+
+------
+Quwstion: What happens when there are 2 interfaces which have same method and the class wants to implement them
+Answer: There will be no problems. The method with will be Override equal, so it only needs to be implemented once
