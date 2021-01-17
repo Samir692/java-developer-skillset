@@ -45,5 +45,15 @@ Dynamic Polymorphism: The behaviour of the class is clear in runtime. Method ove
 Encapsulation is a process of binding opject state and behaviour together. Making class is one example to that.
 
 ------
-Quwstion: What happens when there are 2 interfaces which have same method and the class wants to implement them
-Answer: There will be no problems. The method with will be Override equal, so it only needs to be implemented once
+Question: What happens when there are 2 interfaces which have same method and the class wants to implement them
+Answer: There will be no problems. The method with will be Override equal, so it only needs to be implemented once.
+
+----
+Final keyword
+
+In Java classes, methods and variables can be final. Final class means it cannot be subclassed. Final variable means it can only be initialized once. Final method means the function cannot be overriden.
+
+----
+
+
+
